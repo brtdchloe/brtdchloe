@@ -1,8 +1,14 @@
 ## Hi there!
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- 🤔 I’m looking for courses and exercises to improve my skills
-- 📫 How to reach me: @brtdchloe on Instagram
-- 😄 Pronouns: she/her
+- I want to learn about Web Development
+- I’m looking for courses and exercises to improve my level
+## My skills :
+- Python
+- Basic SQL
+- Basic HTML/CSS
+- Beginner JavaScript
+## Contact me :
+- Twitter (X) : @brtdchloe
+- Instagram : @brtdchloe
 
 <!--
 **brtdchloe/brtdchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
