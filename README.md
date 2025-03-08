@@ -8,7 +8,7 @@
 - Beginner JavaScript
 ## Contact me :
 - Twitter (X) : @brtdchloe
-- Instagram : @brtdchloe
+- Instagram : @chloe_bertaud
 
 <!--
 **brtdchloe/brtdchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
