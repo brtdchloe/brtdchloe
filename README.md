@@ -1,14 +1,14 @@
-## Hi there!
-- I want to learn about Web Development
-- I’m looking for courses and exercises to improve my level
-## My skills :
+## Bienvenue sur mon profil!
+- Je souhaite me former au développement web
+- Je recherche des cours et des exercices pour améliorer mon niveau
+## Mes compétences :
 - Python
-- Basic SQL
-- Basic HTML/CSS
-- Beginner JavaScript
-## Contact me :
-- Twitter (X) : @brtdchloe
-- Instagram : @chloe_bertaud
+- SQL basique
+- HTML/CSS basique
+- JavaScript débutant
+## Me contacter :
+- Twitter (X) : @brtdchloe
+- Instagram : @chloe_bertaud
 
 <!--
 **brtdchloe/brtdchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
