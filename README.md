@@ -7,9 +7,7 @@
 - HTML/CSS basique
 - JavaScript débutant
 ## Me contacter :
-- Twitter (X) : @brtdchloe
-- Instagram : @chloe_bertaud
-- Mail : chloe.bertaud28@gmail.com
+Mail : chloebertaud@outlook.com
 
 <!--
 **brtdchloe/brtdchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
