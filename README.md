@@ -1,6 +1,8 @@
 ## Bienvenue sur mon profil
-- Je souhaite me former au développement web
-- Je recherche des cours et des exercices pour améliorer mon niveau
+## Objectifs :
+- Apprendre Java
+- Apprendre Linux (Debian)
+- Améliorer mes compétences
 ## Mes compétences :
 - Python
 - SQL basique
