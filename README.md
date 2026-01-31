@@ -1,7 +1,7 @@
 ## Bienvenue sur mon profil
 ## Mes objectifs :
 - Apprendre Java
-- Apprendre Linux (Debian)
+- Apprendre Linux
 - Améliorer mes compétences
 ## Mes compétences :
 - Python
